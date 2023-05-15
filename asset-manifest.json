@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//kursanovN.github.io/home-work-16/static/css/main.3c24db20.css",
+    "main.js": "/https//kursanovN.github.io/home-work-16/static/js/main.e11df312.js",
+    "index.html": "/https//kursanovN.github.io/home-work-16/index.html",
+    "main.3c24db20.css.map": "/https//kursanovN.github.io/home-work-16/static/css/main.3c24db20.css.map",
+    "main.e11df312.js.map": "/https//kursanovN.github.io/home-work-16/static/js/main.e11df312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c24db20.css",
+    "static/js/main.e11df312.js"
+  ]
+}
